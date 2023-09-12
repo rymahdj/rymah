@@ -1,0 +1,106 @@
+méthodes pour déposer les travaux du semestre
+r02ha@LAPTOP-0SEPD7U6 MINGW32 ~
+$ git clone https://github.com/rymahdj/rymah.git
+Cloning into 'rymah'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+r02ha@LAPTOP-0SEPD7U6 MINGW32 ~
+$ ll
+total 11241
+drwxr-xr-x 1 r02ha 197609       0 Nov  3  2020 '3D Objects'/
+drwxr-xr-x 1 r02ha 197609       0 Jun  5 18:29  AppData/
+drwxr-xr-x 1 r02ha 197609       0 Dec 31  2020  Apple/
+lrwxrwxrwx 1 r02ha 197609      30 Jun  5 18:28 'Application Data' -> /c/Users/r02ha/AppData/Roaming/
+drwxr-xr-x 1 r02ha 197609       0 Jun  5 18:36  Contacts/
+lrwxrwxrwx 1 r02ha 197609      58 Jun  5 18:28  Cookies -> /c/Users/r02ha/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 r02ha 197609       0 Feb 14  2023 'Creative Cloud Files'/
+drwxr-xr-x 1 r02ha 197609       0 Apr  6 10:51  Documents/
+drwxr-xr-x 1 r02ha 197609       0 Sep 12 14:31  Downloads/
+drwxr-xr-x 1 r02ha 197609       0 Jun  5 18:36  Favorites/
+drwxr-xr-x 1 r02ha 197609       0 Sep 12 10:42  IntelGraphicsProfiles/
+drwxr-xr-x 1 r02ha 197609       0 Jul 20 10:40  Links/
+lrwxrwxrwx 1 r02ha 197609      28 Jun  5 18:28 'Local Settings' -> /c/Users/r02ha/AppData/Local/
+lrwxrwxrwx 1 r02ha 197609      59 Jun  5 18:28 'Menu Démarrer' -> '/c/Users/r02ha/AppData/Roaming/Microsoft/Windows/Start Menu'/
+lrwxrwxrwx 1 r02ha 197609      24 Jun  5 18:28 'Mes documents' -> /c/Users/r02ha/Documents/
+lrwxrwxrwx 1 r02ha 197609      58 Jun  5 18:28  Modèles -> /c/Users/r02ha/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 r02ha 197609       0 Jun  5 18:36  Music/
+-rw-r--r-- 1 r02ha 197609 6291456 Sep 12 10:15  NTUSER.DAT
+-rw-r--r-- 1 r02ha 197609   65536 Jun  5 18:28  NTUSER.DAT{5e90d81c-03bd-11ee-bd6c-91d3563e09c4}.TM.blf
+-rw-r--r-- 1 r02ha 197609  524288 Jun  5 18:28  NTUSER.DAT{5e90d81c-03bd-11ee-bd6c-91d3563e09c4}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 r02ha 197609  524288 Jun  5 18:28  NTUSER.DAT{5e90d81c-03bd-11ee-bd6c-91d3563e09c4}.TMContainer00000000000000000002.regtrans-ms
+drwxr-xr-x 1 r02ha 197609       0 Sep 12 10:42  OneDrive/
+drwxr-xr-x 1 r02ha 197609       0 Jun  5 18:07 'OneDrive - Université paris nanterre'/
+drwxr-xr-x 1 r02ha 197609       0 Nov 16  2022  PycharmProjects/
+lrwxrwxrwx 1 r02ha 197609      55 Jun  5 18:28  Recent -> /c/Users/r02ha/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 r02ha 197609       0 Jun  5 18:36 'Saved Games'/
+drwxr-xr-x 1 r02ha 197609       0 Jun  5 18:38  Searches/
+lrwxrwxrwx 1 r02ha 197609      55 Jun  5 18:28  SendTo -> /c/Users/r02ha/AppData/Roaming/Microsoft/Windows/SendTo/
+drwxr-xr-x 1 r02ha 197609       0 Jan 27  2023 'Suite NCH Software'/
+drwxr-xr-x 1 r02ha 197609       0 Nov 16  2021  Tracing/
+drwxr-xr-x 1 r02ha 197609       0 Jun  5 18:36  Videos/
+lrwxrwxrwx 1 r02ha 197609      66 Jun  5 18:28 "Voisinage d'impression" -> '/c/Users/r02ha/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+lrwxrwxrwx 1 r02ha 197609      66 Jun  5 18:28 'Voisinage réseau' -> '/c/Users/r02ha/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+drwxr-xr-x 1 r02ha 197609       0 Sep 12 11:54  Zotero/
+drwxr-xr-x 1 r02ha 197609       0 Nov  9  2022  anaconda3/
+-rw-r--r-- 1 r02ha 197609   44111 Dec 10  2022 'mise en pagee qgis.qpt'
+-rw-r--r-- 1 r02ha 197609 1615872 Jun  5 18:28  ntuser.dat.LOG1
+-rw-r--r-- 1 r02ha 197609 1740800 Jun  5 18:28  ntuser.dat.LOG2
+-rw-r--r-- 1 r02ha 197609      20 Jun  5 18:36  ntuser.ini
+drwxr-xr-x 1 r02ha 197609       0 Sep 12 15:57  projet-1/
+drwxr-xr-x 1 r02ha 197609       0 Sep 12 16:17  rymah/
+drwxr-xr-x 1 r02ha 197609       0 Sep 12 16:16  rymahadjoumeur/
+-rw-r--r-- 1 r02ha 197609   16384 Sep 29  2022  user-history.db
+
+r02ha@LAPTOP-0SEPD7U6 MINGW32 ~
+$ cd rymah
+
+r02ha@LAPTOP-0SEPD7U6 MINGW32 ~/rymah (main)
+$ touch projet
+
+r02ha@LAPTOP-0SEPD7U6 MINGW32 ~/rymah (main)
+$ git add projet
+
+r02ha@LAPTOP-0SEPD7U6 MINGW32 ~/rymah (main)
+$ git commit -m"bonjour"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'r02ha@LAPTOP-0SEPD7U6.(none)')
+
+r02ha@LAPTOP-0SEPD7U6 MINGW32 ~/rymah (main)
+$ git config --global user.email "r_hadjoumeur@enst.dz"
+
+r02ha@LAPTOP-0SEPD7U6 MINGW32 ~/rymah (main)
+$ git config --global user.name "rymahdj"
+
+r02ha@LAPTOP-0SEPD7U6 MINGW32 ~/rymah (main)
+$ git commit -m"bonjour"
+[main 7f52b89] bonjour
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 projet
+
+r02ha@LAPTOP-0SEPD7U6 MINGW32 ~/rymah (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 270 bytes | 270.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/rymahdj/rymah.git
+   13f24b1..7f52b89  main -> main
+
+r02ha@LAPTOP-0SEPD7U6 MINGW32 ~/rymah (main)
+$
